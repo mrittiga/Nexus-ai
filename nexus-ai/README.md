@@ -3,7 +3,6 @@
 > A production-grade AI Agent powered by **Claude Sonnet 4.6** · Built with **Next.js 14** · Deployed on **Vercel**
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
-![Claude](https://img.shields.io/badge/Claude-Sonnet%204.6-6C63FF?style=flat-square)
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=flat-square&logo=vercel)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
