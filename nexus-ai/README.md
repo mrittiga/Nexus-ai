@@ -14,12 +14,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-🌐 **Website:** [https://nexus-ai-nu-blue.vercel.app](https://nexus-ai-nu-blue.vercel.app)
-
----
-
 # 📌 Overview
 
 **Nexus AI** is a modern full-stack AI assistant designed to provide users with an intuitive conversational experience. It combines a sleek interface with advanced AI capabilities, allowing users to generate content, ask questions, brainstorm ideas, and improve productivity.
